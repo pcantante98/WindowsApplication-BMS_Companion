@@ -9,3 +9,5 @@
 6. Misc. feature creation and implementation.
 
 App main objective: Replace already existing custom commands (basic command line interface) with a more visually appealing and functional app with extra features.
+
+DISCLAIMER: Source code might be protected by company copyright terms, consequently it's stored in a private repository, for more information contact the developer.
