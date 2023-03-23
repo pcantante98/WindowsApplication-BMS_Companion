@@ -9,5 +9,3 @@
 6. Misc. feature creation and implementation.
 
 App main objective: Replace already existing custom commands (basic command line interface) with a more visually appealing and functional app with extra features.
-
-DISCLAIMER: The scource code remains in a private repository as it might be protected by company copyrights.
